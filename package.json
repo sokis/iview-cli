@@ -33,7 +33,7 @@
     "axios": "^0.15.3",
     "iview": "^0.9.17",
     "js-beautify": "^1.6.9",
-    "vue": "^1.0.28"
+    "vue": "^2.5.15"
   },
   "devDependencies": {
     "electron-packager": "^8.5.1",
