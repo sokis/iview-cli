@@ -30,7 +30,7 @@
     "url": "https://github.com/iview/iview-cli/issues"
   },
   "dependencies": {
-    "axios": "^0.15.3",
+    "axios": "^0.18.1",
     "iview": "^0.9.17",
     "js-beautify": "^1.6.9",
     "vue": "^1.0.28"
